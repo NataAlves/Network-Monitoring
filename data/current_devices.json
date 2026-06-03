@@ -1,0 +1,38 @@
+[
+    {
+        "ip": "192.168.10.1",
+        "mac": "80:EA:0B:84:1C:00",
+        "fabricante": "Zyxel Communications",
+        "data": "2026-05-28 17:56:03"
+    },
+    {
+        "ip": "192.168.10.10",
+        "mac": "UNKNOWN",
+        "fabricante": "UNKNOWN",
+        "data": "2026-05-28 17:56:03"
+    },
+    {
+        "ip": "192.168.10.110",
+        "mac": "B0:F2:F6:33:85:5D",
+        "fabricante": "Samsung Electronics",
+        "data": "2026-05-28 17:56:03"
+    },
+    {
+        "ip": "192.168.10.139",
+        "mac": "00:E0:91:4E:8E:95",
+        "fabricante": "LG Electronics",
+        "data": "2026-05-28 17:56:03"
+    },
+    {
+        "ip": "192.168.10.49",
+        "mac": "56:96:E2:B2:A4:6B",
+        "fabricante": "UNKNOWN",
+        "data": "2026-05-28 17:56:03"
+    },
+    {
+        "ip": "192.168.10.54",
+        "mac": "CE:B3:95:15:34:4B",
+        "fabricante": "UNKNOWN",
+        "data": "2026-05-28 20:58:37"
+    }
+]
