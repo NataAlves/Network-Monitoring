@@ -29,7 +29,7 @@ Ideal para estudos de **DevOps, redes e automação com Python**.
 
 ## Tecnologias Utilizadas
 
-- Python 3.x
+- Python 3.14
 - MariaDB / MySQL
 - Nmap (ou biblioteca equivalente, se utilizada)
 - JSON para armazenamento local
@@ -41,7 +41,7 @@ Ideal para estudos de **DevOps, redes e automação com Python**.
 ## Como Executar o Projeto: 
 
 1. Clone o repositório
-git clone https://github.com/seu-usuario/network_monitor.git
+git clone https://github.com/NataAlves/network_monitor.git
 cd network_monitor
 
 2. Crie e Ative um Ambiente Virtual
